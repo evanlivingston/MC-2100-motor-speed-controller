@@ -1,11 +1,10 @@
 This repo contains software and information for controlling a DC motor using an existing motor controller scavenged from a treadmill.  Most of this information comes from [Sons of Invention](https://sonsofinvention.wordpress.com/2013/05/22/arduino-compatible-mc-2100-controller-and-lathe-tachometer/) blog which has excellent details and schematics. 
 
 ## Parts
--Arduino Nano
--rotary encoder
--4 digit 7 segment display
--MC-2100 Motor control board
-
+- Arduino Nano
+- rotary encoder
+- 4 digit 7 segment display
+- MC-2100 Motor control board
 
 ## Building and Uploading Firmware
 
